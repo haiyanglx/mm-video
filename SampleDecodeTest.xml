@@ -1,0 +1,15 @@
+<!--
+Copyright (c) 2016 Qualcomm Technologies, Inc.
+All Rights Reserved.
+Confidential and Proprietary - Qualcomm Technologies, Inc.
+-->
+<xml>
+    <DecodeSession>
+        <CompressionFormat>VIDEO_CodingAVC</CompressionFormat>
+        <InputFile>123.264</InputFile>
+        <OutputHeight>320</OutputHeight> 
+		<OutputWidth>240</OutputWidth> 
+		<TestCaseID>output_240_320.yuv</TestCaseID> 
+        <session_mode>dec</session_mode>
+    </DecodeSession>
+</xml>
