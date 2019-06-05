@@ -1,8 +1,3 @@
-/*-------------------------------------------------------------------
-Copyright (c) 2013-2016 Qualcomm Technologies, Inc.
-All Rights Reserved.
-Confidential and Proprietary - Qualcomm Technologies, Inc.
---------------------------------------------------------------------*/
 
 #ifndef _VTEST_COMDEF_H
 #define _VTEST_COMDEF_H
