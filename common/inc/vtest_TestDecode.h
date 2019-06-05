@@ -1,7 +1,4 @@
-/*-------------------------------------------------------------------
-Copyright (c) 2013-2014 Qualcomm Technologies, Inc. All Rights Reserved.
-Qualcomm Technologies Proprietary and Confidential
---------------------------------------------------------------------*/
+
 
 #ifndef _VTEST_TEST_DECODE_H
 #define _VTEST_TEST_DECODE_H
