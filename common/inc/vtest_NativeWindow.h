@@ -1,7 +1,4 @@
-/* ========================================================================= *
-  Copyright (c) 2012-2015 Qualcomm Technologies, Inc.  All Rights Reserved.
-  Qualcomm Technologies Proprietary and Confidential.
-* ========================================================================= */
+
 #ifndef _VTEST_NATIVE_WINDOW_H
 #define _VTEST_NATIVE_WINDOW_H
 
