@@ -1,7 +1,4 @@
-/*-------------------------------------------------------------------
-Copyright (c) 2014 Qualcomm Technologies, Inc. All Rights Reserved.
-Qualcomm Technologies Proprietary and Confidential
---------------------------------------------------------------------*/
+
 
 #ifndef _VTEST_GPU_POSTPROC_H
 #define _VTEST_GPU_POSTPROC_H
