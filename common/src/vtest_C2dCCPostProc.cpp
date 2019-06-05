@@ -1,7 +1,4 @@
-/* ========================================================================= *
-  Copyright (c) 2014-2015 Qualcomm Technologies, Inc.  All Rights Reserved.
-  Qualcomm Technologies Proprietary and Confidential.
-* ========================================================================= */
+
 
 #include "vtest_C2dCCPostProc.h"
 #include <dlfcn.h>
