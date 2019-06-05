@@ -1,7 +1,4 @@
-/* ========================================================================= *
-  Copyright (c) 2014 Qualcomm Technologies, Inc.  All Rights Reserved.
-  Qualcomm Technologies Proprietary and Confidential.
-* ========================================================================= */
+
 
 #ifndef _VTEST_MDP_OVERLAY_SINK_H
 #define _VTEST_MDP_OVERLAY_SINK_H
