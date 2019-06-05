@@ -1,7 +1,4 @@
-/*-------------------------------------------------------------------
-Copyright (c) 2013 - 2016 Qualcomm Technologies, Inc. All Rights Reserved.
-Qualcomm Technologies Proprietary and Confidential
---------------------------------------------------------------------*/
+
 
 #ifndef _VTEST_SLEEPER_H
 #define _VTEST_SLEEPER_H
